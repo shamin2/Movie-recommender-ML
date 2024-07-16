@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A Movie Recommender System where it will recommend you similar movies based on ur search
+Author: Shamin Yasar
+Author-email: shaminyasar2001@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
