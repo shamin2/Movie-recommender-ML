@@ -73,7 +73,7 @@ We have several ideas for future improvements to make this project even better:
 ## 🛠 Tech Stack
 
 - **Frontend**: Streamlit
-- **Backend**: Python
+- **Backend**: Python, Scikit Learning
 - **Modeling**: Cosine Similarity
 - **Notebooks**: Jupyter
 
