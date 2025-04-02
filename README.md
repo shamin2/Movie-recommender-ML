@@ -9,7 +9,7 @@ This project leverages machine learning to build a movie recommendation system u
 
 ## 📊 Dataset Used
 
-The dataset used for this project is from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv). It contains extensive metadata for thousands of movies, which is used to train and test the recommendation algorithm.
+The dataset used for this project is derived from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv). It contains extensive metadata for thousands of movies, which is used to train and test the recommendation algorithm.
 
 ## 🧠 Model Concept: Cosine Similarity
 
